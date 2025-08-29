@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on **[Metafic](https://www.metafic.co/)**
 - 🌱 I’m currently learning **Next.js, Data Analysis, Linux Automation**
 - 💬 Ask me about **MERN Stack, Python Scripting, Data Science**
-- 👨‍💻 My portfolio: [https://portfolio-fardeen-khan.vercel.app/](https://portfolio-fardeen-khan.vercel.app/)
-- 📫 Reach me at: **fk7483136@gmail.com**
-- 📄 Resume: [View PDF](#) <!-- Replace with an actual hosted link -->
+- 👨‍💻 My portfolio: [https://portfolio-fardeen-khan.vercel.app/](https://fardeen-khan.vercel.app/)
+- 📫 Reach me at: **fardeen14122004@gmail.com**
+- 📄 Resume: [View PDF](file:///C:/Users/fk748/Downloads/Fardeen_Khan.pdf) <!-- Replace with an actual hosted link -->
 
 ---
 
