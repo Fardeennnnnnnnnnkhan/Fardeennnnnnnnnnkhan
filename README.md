@@ -5,12 +5,11 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **[Metafic](https://www.metafic.co/)**
-- 🌱 I’m currently learning **Next.js, Data Analysis, Linux Automation**
+- 🌱 I’m currently learning **Machine Learning Deep Learning Gen AI**
 - 💬 Ask me about **MERN Stack, Python Scripting, Data Science**
 - 👨‍💻 My portfolio: [https://portfolio-fardeen-khan.vercel.app/](https://fardeen-khan.vercel.app/)
 - 📫 Reach me at: **fardeen14122004@gmail.com**
-- 📄 Resume: [View PDF](file:///C:/Users/fk748/Downloads/Fardeen_Khan.pdf) <!-- Replace with an actual hosted link -->
+- 📄 Resume: [View PDF]() <!-- Replace with an actual hosted link -->
 
 ---
 
